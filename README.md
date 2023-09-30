@@ -61,4 +61,4 @@ git push origin <branch-name>
 
 **8.** Create a [Pull Request/PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) 🛠️ 
 
-**9.** **Congratulations!**  🎉 Sit and relax, you've made your contribution to Android Development repository of GDSC Cummins under hacktoberfest 2023.  🌟
+**9.** **Congratulations!**  🎉 Sit and relax, you've made your contribution to IOT-2023 repository of GDSC Cummins under hacktoberfest 2023.  🌟
