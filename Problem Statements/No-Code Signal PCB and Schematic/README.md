@@ -1,0 +1,3 @@
+Problem Statement - Design a PCB layout and schematic for a no-code signal transmission system that periodically sends "ok" or "not-ok" signals to a central hub over a wired connection, simplifying monitoring and communication.
+
+Description - Create both a printed circuit board (PCB) layout and an accompanying electrical schematic for a no-code signal transmission system. This system should periodically transmit binary "ok" or "not-ok" signals to a central hub through a wired connection, with the primary goal of streamlining monitoring and communication processes. The design involves selecting the appropriate components, including sensors or detectors for signal generation, a microcontroller for signal processing, and communication modules for data transmission.

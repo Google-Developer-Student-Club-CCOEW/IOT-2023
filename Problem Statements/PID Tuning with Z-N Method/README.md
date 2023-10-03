@@ -1,0 +1,3 @@
+Problem Statement - Create a PID controller tuning library using the Ziegler-Nichols method, providing user-friendly guidance for input values based on Ziegler-Nichols table combinations.
+
+Description - Design a PID controller tuning library using the Ziegler-Nichols method, a widely used technique in control systems. The library should not only implement the Ziegler-Nichols method but also offer a user-friendly interface. This includes providing clear guidance to users for selecting input values based on the Ziegler-Nichols table combinations. The goal is to simplify the process of tuning PID controllers, making it accessible and efficient for engineers and practitioners in control systems.

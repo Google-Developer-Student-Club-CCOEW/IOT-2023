@@ -1,0 +1,3 @@
+Problem Statement - Create a strategy to convert from iPv4 to iPv6 seamlessly, addressing security concerns as well
+
+Description - Design a comprehensive strategy for the migration from IPv4 to IPv6 that guarantees a smooth transition while effectively mitigating security concerns. This entails a thorough analysis of existing IPv4 infrastructure and the development of a meticulous migration plan that incorporates IPv6 protocol adoption. Security considerations must be integrated into every phase of the transition (Intrusion detection and prevention system, encryption mechanisms etc.) The strategy should include a detailed inventory of all networked devices and applications to identify potential vulnerabilities during the migration.

@@ -1,0 +1,3 @@
+Problem Statement - Implement button debounce logic using a timer-based approach instead of traditional software-based methods.
+
+Description - Develop a button debounce logic solution that overcomes the limitations of traditional software-based methods. This alternative approach utilizes timers, initiated upon button press or release, with a short delay before verifying the button's stable state. If stability is confirmed, the system registers a valid button action, such as LED toggling. By adopting this timer-based strategy, the goal is to simplify debounce logic, enhance reliability, and eliminate issues stemming from electrical noise or contact bouncing.

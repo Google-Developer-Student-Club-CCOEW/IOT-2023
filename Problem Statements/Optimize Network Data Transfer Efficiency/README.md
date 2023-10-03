@@ -1,0 +1,3 @@
+Problem Statement - Develop an algorithm that maximizes data transfer efficiency in a network, minimizing wasted bandwidth and ensuring faster, more effective communication.
+
+Description - Create an algorithm that optimizes the utilization of network resources by maximizing data transfer efficiency. The algorithm aims to minimize the wastage of available bandwidth and, consequently, facilitate faster and more effective communication across the network. It will analyze various aspects of data transmission, including packet size, routing decisions, error handling, and congestion control, to ensure that data is transmitted in the most efficient manner possible. 
