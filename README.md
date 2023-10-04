@@ -33,12 +33,10 @@ Welcome Cummins and MMCOE College students! This repository is designed to facil
 * Happy Contributing!
 
 
-![hacto](https://github.com/Google-Developer-Student-Club-CCOEW/Competitive-Programming-2023/assets/56436897/c430bbf2-5b14-40bf-8e91-748b629c766b)
-
 
 ## Contributing to this Repo
 
-**1.** Fork [this](https://github.com/Google-Developer-Student-Club-CCOEW/Android-2023/fork) repository.
+**1.** Fork [this](https://github.com/Google-Developer-Student-Club-CCOEW/IOT-2023-GDSC-CUMMINS-X-GDSC-MMCOE/fork) repository.
 
 **2.** Clone the forked repository.
 
